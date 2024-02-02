@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ILU Flutter Demo',
+      title: 'My ILU Flutter Demo',
       theme: ThemeData(
         // This is the theme of your application.
         //
